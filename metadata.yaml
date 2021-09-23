@@ -1,5 +1,8 @@
 _repo: The-Collected-Works-of-Ambrose-Bierce-Volume-XII_66345
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66345-h/images/cover.jpg
 creator:
   author:
     agent_name: Bierce, Ambrose
@@ -12,6 +15,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/44231
     - https://en.wikipedia.org/wiki/Ambrose_Bierce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66345#The-Collected-Works-of-Ambrose-Bierce-Volume-XII
 gutenberg_issued: '2021-09-20'
 identifiers:
   gutenberg: '66345'
